@@ -1,0 +1,59 @@
+[
+  {
+    "username": "Ivan",
+    "email": "ivanov@mail.ru",
+    "first_name": "Ivan",
+    "last_name": "ivanov",
+    "task_list": [
+      {
+        "name": "Купить очки",
+        "description": "Купить где-нибудь",
+        "created_it": "29.06.2023"
+      },
+      {
+        "name": "Купить слона",
+        "description": "Купить когда-нибудь",
+        "created_it": "29.06.2023"
+      }
+    ]
+  },
+  {
+    "username": "Igor",
+    "email": "igor@mail.ru",
+    "first_name": "Igor",
+    "last_name": "Igorov",
+    "task_list": [
+      {
+        "name": "Купить хлеб",
+        "description": "В магазине",
+        "created_it": "26.06.2023"
+      }
+    ]
+  },
+  {
+    "username": "Tan",
+    "email": "tan@mail.ru",
+    "first_name": "Tan",
+    "last_name": "Tanov",
+    "task_list": [
+      {
+        "name": "Купить машину",
+        "description": "На сайте",
+        "created_it": "29.06.2025"
+      }
+    ]
+  },
+  {
+    "username": "Поп",
+    "email": "попов@mail.ru",
+    "first_name": "Поп",
+    "last_name": "Попов",
+    "task_list": [
+      {
+        "name": "Продать машину",
+        "description": "На рынке",
+        "created_it": "29.01.2024"
+      }
+    ]
+  }
+]
